@@ -11,5 +11,6 @@ This  work  presents  a  multimodal  cognitive  interaction strategy  aiming  at
 ### Image illustrating the Face orientation module
 ![face](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/face2.png)
 
-
+This work was presented in 16th IEEE/RAS-EMBS International Conference on Rehabilitation Robotics (ICORR 2019), the biannual conference on theoretical and experimental issues in the fields of Rehabilitation Robotics and Neuroscience applied to Healthcare.
+[website](https://http://icorr2019.org/)
 
