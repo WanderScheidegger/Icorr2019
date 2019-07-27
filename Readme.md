@@ -4,3 +4,6 @@ This  work  presents  a  multimodal  cognitive  interaction strategy  aiming  at
 
 ### Block diagram of our multimodal cognitive interaction
 ![block](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/block_diagram.png)
+
+### Conceptual view  of  the  walker  illustrating  the  lower  limbs  detection  zone  and  theformation variables of the Follow-in-Front Control module
+![sensor](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/legs_form.png)
