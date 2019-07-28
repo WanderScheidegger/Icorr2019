@@ -2,15 +2,8 @@
 
 This  work  presents  a  multimodal  cognitive  interaction strategy  aiming  at  walker-assisted  rehabilitation  therapies,with  special  focus  on  post-stroke  patients.  Such  interactionstrategy  is  based  on  monitoring  user’s  gait  and  face  orien-tation to command the displacement of the smart walker. Insuch a follow-in-front strategy, the users are able to activelycommand the steering of the walker by changing their faceorientation,  while  their  lower  limbs  movement  affects  thewalker’s linear velocity.
 
-### Block diagram of our multimodal cognitive interaction
-![block](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/block_diagram.png)
-
-### Conceptual view  of  the  walker  illustrating  the  lower  limbs  detection  zone  and  theformation variables of the Follow-in-Front Control module
-![sensor](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/legs_form.png)
-
-### Image illustrating the Face orientation module
-![face](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/face2.png)
-
 This work was presented in 16th IEEE/RAS-EMBS International Conference on Rehabilitation Robotics (ICORR 2019), the biannual conference on theoretical and experimental issues in the fields of Rehabilitation Robotics and Neuroscience applied to Healthcare.
 [website](https://icorr2019.org/)
 
+### Poster
+![poster](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/poster.png)
