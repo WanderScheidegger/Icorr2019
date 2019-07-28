@@ -6,4 +6,4 @@ This work was presented in 16th IEEE/RAS-EMBS International Conference on Rehabi
 [website](https://icorr2019.org/)
 
 ### Poster
-![poster](https://raw.githubusercontent.com/WanderScheidegger/Icorr2019/master/figs/poster.png)
+![poster](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/poster.png)
