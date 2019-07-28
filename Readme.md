@@ -9,4 +9,4 @@ This work was presented in 16th IEEE/RAS-EMBS International Conference on Rehabi
 ![poster](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/poster.png)
 
 ### Video Contribution accepted
-[![Link to my YouTube video!](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/icorr_vid.png)](https://youtu.be/hIpiGwvBnHA)
+[![Link to my YouTube video!](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/icorr_vid.png)](https://www.youtube.com/watch?v=oZIx7w58t-Y)
